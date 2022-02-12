@@ -4,10 +4,10 @@
   "private": true,
   "main": "app.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "node app.js",
+    "build": "node app.js",
+    "test": "node app.js",
+    "eject": "node app.js"
   },
   "dependencies": {
     "@material-ui/core": "^4.9.10",
